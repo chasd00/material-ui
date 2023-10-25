@@ -5,7 +5,7 @@ import Avatar from '@mui/joy/Avatar';
 import MapsHomeWorkIcon from '@mui/icons-material/MapsHomeWork';
 import ColorSchemeToggle from './ColorSchemeToggle';
 
-export default function HeaderSection() {
+export default function NavBar() {
   return (
     <Box
       sx={{
